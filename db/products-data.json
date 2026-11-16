@@ -1,0 +1,98 @@
+[
+    {
+        "catagory": "beanies",
+        "id": "HBred",
+        "name": "Red Beanie",
+        "image": "images/index-images/hats/beanies/red-beanie.webp",
+        "inStock": 5,
+        "price": 28.65
+    },
+    {
+        "catagory": "beanies",
+        "id": "HByellow",
+        "name": "Yellow Beanie",
+        "image": "images/index-images/hats/beanies/yellow-beanie.webp",
+        "inStock": 7,
+        "price": 25.10
+    },
+    {
+        "catagory": "beanies",
+        "id": "HBblue",
+        "name": "Blue Beanie",
+        "image": "images/index-images/hats/beanies/blue-beanie.webp",
+        "inStock": 3,
+        "price": 24.35
+    },
+    {
+        "catagory": "beanies",
+        "id": "HBgreen",
+        "name": "Green Beanie",
+        "image": "images/index-images/hats/beanies/green-beanie.webp",
+        "inStock": 6,
+        "price": 23.85
+    },
+    {
+        "catagory": "racing helmets",
+        "id": "HRHred",
+        "name": "Red Racing Helmet",
+        "image": "images/index-images/hats/racing-helmets/red-racing-helmet.webp",
+        "inStock": 4,
+        "price": 31.85
+    },
+    {
+        "catagory": "racing helmets",
+        "id": "HRHyellow",
+        "name": "Yellow Racing Helmet",
+        "image": "images/index-images/hats/racing-helmets/yellow-racing-helmet.webp",
+        "inStock": 3,
+        "price": 29.45
+    },
+    {
+        "catagory": "racing helmets",
+        "id": "HRHblue",
+        "name": "Blue Racing Helmet",
+        "image": "images/index-images/hats/racing-helmets/blue-racing-helmet.webp",
+        "inStock": 6,
+        "price": 32.30
+    },
+    {
+        "catagory": "racing helmets",
+        "id": "HRHgreen",
+        "name": "Green Racing Helmet",
+        "image": "images/index-images/hats/racing-helmets/green-racing-helmet.webp",
+        "inStock": 8,
+        "price": 35.10
+    },
+    {
+        "catagory": "top hats",
+        "id": "HTHred",
+        "name": "Red Top Hat",
+        "image": "images/index-images/hats/top-hats/red-top-hat.webp",
+        "inStock": 3,
+        "price": 33.30
+    },
+    {
+        "catagory": "top hats",
+        "id": "HTHblue",
+        "name": "Blue Top Hat",
+        "image": "images/index-images/hats/top-hats/blue-top-hat.webp",
+        "inStock": 4,
+        "price": 32.50
+    },
+    {
+        "catagory": "top hats",
+        "id": "HTHpurple",
+        "name": "Purple Top Hat",
+        "image": "images/index-images/hats/top-hats/purple-top-hat.webp",
+        "inStock": 5,
+        "price": 39.45
+    },
+    {
+        "catagory": "top hats",
+        "id": "HTHneonorange",
+        "name": "Neon Orange Top Hat",
+        "image": "images/index-images/hats/top-hats/neon-orange-top-hat.webp",
+        "inStock": 9,
+        "price": 48.60
+    }
+]
